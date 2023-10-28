@@ -1,0 +1,69 @@
+Nome: SAO JOSE DO XINGU
+Codigo Estacao: A942
+Latitude: -10.48416666
+Longitude: -52.37249999
+Altitude: 300
+Situacao: Operante
+Data Inicial: 2019-02-18
+Data Final: 2023-10-11
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2019-02-28;6;null;null;null;null;null;
+2019-03-31;24;250;978,067204;25,22285;5;1,343396;
+2019-04-30;16;120,4;977,740694;25,997639;6,9;1,063611;
+2019-05-31;10;22,8;977,841398;26,550269;3,9;1,023118;
+2019-06-30;0;0;980,046806;25,646528;4;1,37375;
+2019-07-31;0;0;979,885349;25,43172;4,8;1,453629;
+2019-08-31;null;0;979,904982;26,805073;6,7;1,632409;
+2019-09-30;6;50,6;977,157361;28,43375;7,4;1,709028;
+2019-10-31;16;170,2;976,791906;25,947055;8,8;1,700488;
+2019-11-30;18;278,4;975,874639;26,061667;6,7;1,540868;
+2019-12-31;19;177,4;976,23346;26,247041;7,2;1,310227;
+2020-01-31;26;253,8;977,389417;25,601765;7;1,618049;
+2020-02-29;19;244;977,775612;25,865043;6,3;1,375325;
+2020-03-31;21;255,4;977,538288;25,627802;5,1;1,517261;
+2020-04-30;16;237,2;978,421528;25,792083;6;1,153611;
+2020-05-31;5;45,4;979,517339;25,749328;3,4;1,086156;
+2020-06-30;0;0;979,602222;25,275833;4,1;1,236667;
+2020-07-31;0;0;979,209946;25,427688;4,3;1,43871;
+2020-08-31;1;1;978,287231;27,079973;4,9;1,587097;
+2020-09-30;1;12,8;977,002234;28,49276;5,5;1,717198;
+2020-10-31;14;145,4;976,206516;26,985869;10,1;1,853635;
+2020-11-30;19;104;976,267272;26,13599;7,8;1,644312;
+2020-12-31;22;220,8;976,56603;25,458567;8,5;1,482726;
+2021-01-31;18;null;976,594049;25,246048;5,3;1,357119;
+2021-02-28;21;282,2;976,658379;25,213412;6,5;1,758618;
+2021-03-31;21;180,6;977,370544;24,886431;6,8;1,281109;
+2021-04-30;19;144,2;977,436944;25,220139;4,8;1,216111;
+2021-05-31;2;6,4;978,886693;25,609946;3,2;1,062634;
+2021-06-30;0;0;979,270278;25,490833;3,9;1,32;
+2021-07-31;null;null;null;25,260985;4,4;null;
+2021-08-31;null;null;null;null;4,3;null;
+2021-09-30;null;null;null;null;null;null;
+2021-10-31;null;null;null;null;null;null;
+2021-11-30;null;null;null;null;null;null;
+2021-12-31;null;null;null;null;null;null;
+2022-01-31;null;null;null;null;null;null;
+2022-02-28;null;null;null;null;null;null;
+2022-03-31;null;null;null;null;null;null;
+2022-04-30;null;null;null;null;null;null;
+2022-05-31;null;null;null;null;null;null;
+2022-06-30;null;null;null;null;null;null;
+2022-07-31;null;null;null;null;null;null;
+2022-08-31;null;null;null;null;null;null;
+2022-09-30;null;null;null;null;null;null;
+2022-10-31;null;null;null;null;null;null;
+2022-11-30;null;null;null;null;null;null;
+2022-12-31;null;null;null;null;null;null;
+2023-01-31;null;null;null;null;null;null;
+2023-02-28;null;null;null;null;null;null;
+2023-03-31;null;null;null;null;null;null;
+2023-04-30;null;null;null;null;null;null;
+2023-05-31;null;null;null;null;null;null;
+2023-06-30;1;null;null;25,556944;null;null;
+2023-07-31;0;0;980,047984;25,847715;null;null;
+2023-08-31;4;19,6;978,210618;27,51371;null;null;
+2023-09-30;12;68;976,997335;28,188551;null;null;
+2023-10-31;6;null;null;null;null;null;
+

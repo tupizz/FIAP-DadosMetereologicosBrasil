@@ -1,0 +1,111 @@
+Nome: POMPEU
+Codigo Estacao: A560
+Latitude: -19.23249999
+Longitude: -44.96416666
+Altitude: 705
+Situacao: Pane
+Data Inicial: 2015-08-20
+Data Final: 2023-10-11
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2015-08-31;null;null;null;null;null;null;
+2015-09-30;5;51,8;935,441389;24,456806;8,3;2,305036;
+2015-10-31;2;70,4;935,115323;26,772177;5,6;2,401075;
+2015-11-30;5;47;933,024583;25,963333;8,4;2,396944;
+2015-12-31;16;127,6;935,314113;24,63871;9;2,174866;
+2016-01-31;19;393,2;933,318952;23,928898;8,5;2,398564;
+2016-02-29;7;82;935,342035;25,300775;7,9;1,960776;
+2016-03-31;9;110,6;936,303091;24,189651;6,8;1,986694;
+2016-04-30;2;41,4;936,195833;23,59;6,6;2,066945;
+2016-05-31;1;7;938,137231;21,174328;4,7;1,877016;
+2016-06-30;1;6,2;939,811944;19,199722;5,1;2,060833;
+2016-07-31;0;0;939,222849;20,449731;5,5;2,255242;
+2016-08-31;2;10,8;938,019086;21,904436;10,1;2,513306;
+2016-09-30;5;28;null;24,430139;8,6;2,547917;
+2016-10-31;9;120,8;null;25,010642;7,7;2,658433;
+2016-11-30;16;261,4;933,874167;23,194028;6,9;2,32875;
+2016-12-31;16;126,6;934,255376;23,878495;9,7;2,273866;
+2017-01-31;8;151,2;934,49664;25,009409;6,8;2,047425;
+2017-02-28;10;92,6;934,942262;23,880655;5,1;2,161723;
+2017-03-31;5;37,2;934,852016;23,799597;5,3;1,967274;
+2017-04-30;6;110,8;936,026515;23,288169;5,2;2,068185;
+2017-05-31;7;45;937,28172;20,820027;5,5;1,836156;
+2017-06-30;2;24,2;939,509028;19,376389;5,6;2,088611;
+2017-07-31;null;0;943,068006;17,777232;7;2,523065;
+2017-08-31;null;null;null;null;5,6;null;
+2017-09-30;null;null;null;null;5,9;null;
+2017-10-31;2;null;934,852238;25,988959;7,1;2,65972;
+2017-11-30;19;151,8;933,494312;23,193031;6,7;2,375598;
+2017-12-31;16;251;null;24,075269;6,7;2,166935;
+2018-01-31;3;null;null;null;null;null;
+2018-02-28;1;null;null;null;null;null;
+2018-03-31;1;null;null;null;null;null;
+2018-04-30;null;null;null;null;null;null;
+2018-05-31;null;null;null;null;null;null;
+2018-06-30;null;null;null;null;null;null;
+2018-07-31;null;null;null;null;null;null;
+2018-08-31;null;null;null;null;null;null;
+2018-09-30;null;null;null;null;null;null;
+2018-10-31;null;null;null;null;null;null;
+2018-11-30;null;null;null;null;null;null;
+2018-12-31;null;null;null;null;null;null;
+2019-01-31;null;null;null;null;null;null;
+2019-02-28;null;null;null;null;null;null;
+2019-03-31;null;null;null;null;null;null;
+2019-04-30;null;null;null;null;null;null;
+2019-05-31;null;null;null;null;null;null;
+2019-06-30;null;null;null;null;null;null;
+2019-07-31;null;null;null;null;null;null;
+2019-08-31;null;null;null;null;null;null;
+2019-09-30;null;null;null;null;null;null;
+2019-10-31;null;null;null;null;null;null;
+2019-11-30;null;null;null;null;null;null;
+2019-12-31;null;null;null;null;null;null;
+2020-01-31;null;null;null;null;null;null;
+2020-02-29;null;null;null;null;null;null;
+2020-03-31;null;null;null;null;null;null;
+2020-04-30;null;null;null;null;null;null;
+2020-05-31;null;null;null;null;null;null;
+2020-06-30;null;null;null;null;null;null;
+2020-07-31;null;null;null;null;null;null;
+2020-08-31;null;null;null;null;null;null;
+2020-09-30;null;null;null;null;null;null;
+2020-10-31;null;null;null;null;null;null;
+2020-11-30;null;null;null;null;null;null;
+2020-12-31;null;null;null;null;null;null;
+2021-01-31;null;null;null;null;null;null;
+2021-02-28;null;null;null;null;null;null;
+2021-03-31;null;null;null;null;null;null;
+2021-04-30;null;null;null;null;null;null;
+2021-05-31;null;null;null;null;null;null;
+2021-06-30;null;null;null;null;null;null;
+2021-07-31;null;null;null;null;null;null;
+2021-08-31;null;null;null;null;null;null;
+2021-09-30;null;null;null;null;null;null;
+2021-10-31;11;null;937,239055;23,842082;null;null;
+2021-11-30;14;359,6;935,214028;23,435556;null;null;
+2021-12-31;21;461,2;934,673656;23,230511;null;null;
+2022-01-31;19;615,2;936,124865;23,803898;null;null;
+2022-02-28;23;299,4;936,514583;23,231696;null;null;
+2022-03-31;1;4,6;937,111051;24,409911;5,8;1,713163;
+2022-04-30;5;19,6;937,696534;23,345447;4,9;1,559468;
+2022-05-31;4;37,6;940,074205;18,838698;5,4;1,590978;
+2022-06-30;0;0;940,356775;18,066498;5,6;1,370036;
+2022-07-31;0;0;941,906095;19,329798;6,9;2,131563;
+2022-08-31;0;0;940,93781;20,786547;8,4;2,305985;
+2022-09-30;5;26,8;938,714775;23,085107;7,9;2,342423;
+2022-10-31;12;33,2;937,395296;24,971102;6,7;2,453284;
+2022-11-30;14;null;936,110598;22,73471;7,3;2,048224;
+2022-12-31;11;98,2;935,301648;23,090621;9,2;2,047376;
+2023-01-31;null;null;936,774667;23,421225;5,5;1,9;
+2023-02-28;10;null;937,348551;24,472179;6,4;null;
+2023-03-31;6;18,4;937,936629;24,360274;null;null;
+2023-04-30;11;48,2;937,570635;22,6682;null;null;
+2023-05-31;0;0;940,157559;19,975034;null;null;
+2023-06-30;3;8,2;942,29432;18,59433;null;null;
+2023-07-31;null;0;942,15496;19,915517;6;1,73869;
+2023-08-31;5;25,8;939,966667;21,693472;7,3;2,025556;
+2023-09-30;1;null;null;null;null;null;
+2023-10-31;null;null;null;null;null;null;
+

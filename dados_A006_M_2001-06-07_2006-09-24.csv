@@ -1,0 +1,76 @@
+Nome: CRIXAS
+Codigo Estacao: A006
+Latitude: -14.53333333
+Longitude: -49.96666666
+Altitude: 389
+Situacao: Desativada
+Data Inicial: 2001-06-07
+Data Final: 2006-09-24
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2001-06-30;null;null;null;23,941477;4,1;null;
+2001-07-31;0;0;972,190995;24,061156;5;1,446371;
+2001-08-31;2;11;972,221453;25,300316;6,2;1,662798;
+2001-09-30;9;261,8;968,162222;null;6,5;1,393889;
+2001-10-31;16;157,2;968,125099;25,990542;8;1,39564;
+2001-11-30;21;264,2;967,387563;25,325139;5,6;1,33452;
+2001-12-31;24;310,2;967,13965;25,015323;6;1,336156;
+2002-01-31;21;null;967,127237;24,73803;5,7;1,39892;
+2002-02-28;6;null;null;25,904383;4,8;null;
+2002-03-31;15;186,2;968,516649;25,959268;6,3;1,320068;
+2002-04-30;1;null;null;null;null;null;
+2002-05-31;1;,6;969,250807;25,541959;5,6;1,362892;
+2002-06-30;null;null;971,746538;23,910953;4,8;1,424222;
+2002-07-31;null;0;971,229428;25,196938;6,4;1,542005;
+2002-08-31;null;0;970,211457;26,649336;5,5;1,600195;
+2002-09-30;2;60,4;968,760439;27,333374;6,5;1,636185;
+2002-10-31;6;null;null;27,892762;5,4;null;
+2002-11-30;2;null;null;null;null;null;
+2002-12-31;null;null;null;null;null;null;
+2003-01-31;null;null;null;null;null;null;
+2003-02-28;1;null;null;null;null;null;
+2003-03-31;2;null;null;null;null;null;
+2003-04-30;2;null;null;null;null;null;
+2003-05-31;null;null;null;null;null;null;
+2003-06-30;null;null;null;null;null;null;
+2003-07-31;null;null;null;null;null;null;
+2003-08-31;null;null;null;null;null;null;
+2003-09-30;null;null;null;null;null;null;
+2003-10-31;null;null;null;null;null;null;
+2003-11-30;null;null;null;null;null;null;
+2003-12-31;null;null;null;null;null;null;
+2004-01-31;null;null;null;null;null;null;
+2004-02-29;null;null;null;null;null;null;
+2004-03-31;null;null;null;null;null;null;
+2004-04-30;null;null;null;null;null;null;
+2004-05-31;null;null;null;null;null;null;
+2004-06-30;null;null;null;null;null;null;
+2004-07-31;null;null;null;null;null;null;
+2004-08-31;null;null;null;null;null;null;
+2004-09-30;null;null;null;null;null;null;
+2004-10-31;null;null;null;null;null;null;
+2004-11-30;null;null;null;null;null;null;
+2004-12-31;null;null;null;null;null;null;
+2005-01-31;null;null;null;null;null;null;
+2005-02-28;null;null;null;null;null;null;
+2005-03-31;null;null;null;null;null;null;
+2005-04-30;null;null;null;null;null;null;
+2005-05-31;null;null;null;null;null;null;
+2005-06-30;null;null;null;null;null;null;
+2005-07-31;null;null;null;24,320066;4,5;null;
+2005-08-31;2;3,8;970,55578;25,670833;5,9;1,503226;
+2005-09-30;4;98,6;968,584862;28,433143;4,7;1,554595;
+2005-10-31;6;12,8;967,129157;28,763076;5,5;1,359936;
+2005-11-30;16;null;null;25,191875;4,7;null;
+2005-12-31;23;396,6;966,819893;24,380376;6,1;1,225806;
+2006-01-31;16;137,2;967,293145;26,083736;5,8;1,192876;
+2006-02-28;13;null;967,720392;25,268231;7,6;1,066698;
+2006-03-31;23;287,4;968,035984;25,150006;5,6;1,040453;
+2006-04-30;1;null;null;null;null;null;
+2006-05-31;null;null;null;null;null;null;
+2006-06-30;null;null;null;null;null;null;
+2006-07-31;null;null;null;null;null;null;
+2006-08-31;null;null;null;null;null;null;
+2006-09-30;null;null;null;null;null;null;
+

@@ -1,0 +1,64 @@
+Nome: NOVO ARIPUANA
+Codigo Estacao: A144
+Latitude: -8.0911111
+Longitude: -60.38055554
+Altitude: 45
+Situacao: Operante
+Data Inicial: 2019-07-17
+Data Final: 2023-10-11
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2019-07-31;1;null;null;null;null;null;
+2019-08-31;8;60,2;1008,458395;26,998982;2,9;,613731;
+2019-09-30;22;202,4;1006,470417;27,297083;2,7;,661528;
+2019-10-31;23;178,6;1005,682796;26,525134;3,4;,65672;
+2019-11-30;15;null;1004,586554;26,689063;2,8;,623955;
+2019-12-31;null;null;null;null;1,5;null;
+2020-01-31;null;null;null;null;2;null;
+2020-02-29;null;null;null;null;2;null;
+2020-03-31;null;null;null;null;1,8;null;
+2020-04-30;null;null;null;null;1,7;null;
+2020-05-31;null;null;null;null;1,6;null;
+2020-06-30;null;null;null;null;null;null;
+2020-07-31;null;null;null;null;null;null;
+2020-08-31;null;null;null;null;null;null;
+2020-09-30;null;null;null;null;null;null;
+2020-10-31;null;null;null;null;null;null;
+2020-11-30;null;null;null;null;null;null;
+2020-12-31;null;null;null;null;null;null;
+2021-01-31;null;null;null;null;null;null;
+2021-02-28;null;null;null;null;null;null;
+2021-03-31;null;null;null;null;null;null;
+2021-04-30;null;null;null;null;null;null;
+2021-05-31;null;null;null;null;null;null;
+2021-06-30;null;null;null;null;null;null;
+2021-07-31;null;null;null;null;null;null;
+2021-08-31;null;null;null;null;null;null;
+2021-09-30;null;null;null;null;null;null;
+2021-10-31;null;null;null;null;null;null;
+2021-11-30;null;null;null;null;null;null;
+2021-12-31;null;null;null;null;null;null;
+2022-01-31;null;null;null;null;null;null;
+2022-02-28;null;null;null;null;null;null;
+2022-03-31;null;null;null;null;null;null;
+2022-04-30;null;null;null;null;null;null;
+2022-05-31;null;null;null;null;1,7;null;
+2022-06-30;7;null;null;null;1,8;null;
+2022-07-31;6;null;1007,036549;27,380694;2,7;,521337;
+2022-08-31;14;82,6;1007,138634;27,10256;3;,663242;
+2022-09-30;10;104,2;1005,907488;27,810199;2,2;,605701;
+2022-10-31;17;284,2;1005,449112;26,837465;3,7;,654961;
+2022-11-30;15;208,4;1005,398277;26,644095;2,5;,65896;
+2022-12-31;25;266,4;1005,182295;26,153702;3,2;,647908;
+2023-01-31;27;337,8;1006,922319;25,29702;2,5;,64905;
+2023-02-28;24;null;1006,668888;25,599167;3,1;,613098;
+2023-03-31;28;437,2;1006,638407;25,574865;2,1;,602775;
+2023-04-30;24;528;1006,154583;26,200417;2,3;,55625;
+2023-05-31;20;226,2;1007,047893;26,797953;2;,535785;
+2023-06-30;18;124,4;1008,433463;26,302464;2,6;,590388;
+2023-07-31;6;47;1007,999731;27,502419;1,9;,496371;
+2023-08-31;10;64,2;1006,733737;28,26371;2,3;,655511;
+2023-09-30;9;34,6;1005,738674;28,723081;3;,696903;
+2023-10-31;2;null;null;null;null;null;
+

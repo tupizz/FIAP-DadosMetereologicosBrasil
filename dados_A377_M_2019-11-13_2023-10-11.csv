@@ -1,0 +1,60 @@
+Nome: ANGICAL DO PIAUI
+Codigo Estacao: A377
+Latitude: -6.08944444
+Longitude: -42.72749999
+Altitude: 183
+Situacao: Pane
+Data Inicial: 2019-11-13
+Data Final: 2023-10-11
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2019-11-30;3;null;null;null;null;null;
+2019-12-31;14;101,8;987,926344;28,525;4,2;1,121371;
+2020-01-31;17;112;989,900276;26,221944;5,4;1,028728;
+2020-02-29;21;200,4;990,084147;25,987202;4,5;,927826;
+2020-03-31;27;616,4;990,048253;25,772446;4,8;,939113;
+2020-04-30;24;199,2;990,581528;26,031667;3,8;,940694;
+2020-05-31;17;57,6;991,42836;25,947984;4;,9625;
+2020-06-30;4;6,6;991,768333;25,248333;4;1,140278;
+2020-07-31;0;0;991,532661;24,990726;4,4;1,261828;
+2020-08-31;0;0;991,112097;26,175269;4,9;1,359946;
+2020-09-30;2;,8;990,130833;28,095278;4,5;1,362917;
+2020-10-31;8;33,6;988,615726;29,554032;4,3;1,298925;
+2020-11-30;27;35,4;988,728611;27,377222;4;1,083611;
+2020-12-31;15;3;988,748766;26,935494;7,3;,993981;
+2021-01-31;null;null;null;null;null;null;
+2021-02-28;null;null;null;null;null;null;
+2021-03-31;null;null;null;null;null;null;
+2021-04-30;null;null;null;null;null;null;
+2021-05-31;null;null;null;null;null;null;
+2021-06-30;null;null;null;null;null;null;
+2021-07-31;null;null;null;null;null;null;
+2021-08-31;null;null;null;null;null;null;
+2021-09-30;null;null;null;null;null;null;
+2021-10-31;null;null;null;null;null;null;
+2021-11-30;null;null;null;null;null;null;
+2021-12-31;null;null;null;null;null;null;
+2022-01-31;null;null;null;null;null;null;
+2022-02-28;null;null;null;null;null;null;
+2022-03-31;null;null;null;null;null;null;
+2022-04-30;null;null;null;null;null;null;
+2022-05-31;null;null;null;null;null;null;
+2022-06-30;null;null;null;null;null;null;
+2022-07-31;null;null;null;null;null;null;
+2022-08-31;null;0;991,406548;26,034077;5,7;1,376339;
+2022-09-30;0;0;990,123056;28,083611;4;1,25819;
+2022-10-31;null;null;988,581048;29,192876;5,2;1,239516;
+2022-11-30;null;null;988,902778;26,1975;3,2;,907083;
+2022-12-31;null;null;988,655376;26,207258;3,5;,898387;
+2023-01-31;null;null;989,79328;25,10121;4;,824731;
+2023-02-28;null;null;989,578125;25,311012;3,6;,836905;
+2023-03-31;null;null;989,945027;25,49328;4,5;,932124;
+2023-04-30;null;null;989,40625;25,836528;5;,902639;
+2023-05-31;null;null;990,73629;26,03629;3,8;,917608;
+2023-06-30;null;null;992,201528;25,65375;3,7;null;
+2023-07-31;null;null;992,387646;25,709403;null;null;
+2023-08-31;null;null;991,04718;26,81;null;null;
+2023-09-30;null;null;null;null;null;null;
+2023-10-31;null;null;null;null;null;null;
+

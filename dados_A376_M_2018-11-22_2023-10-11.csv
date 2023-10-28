@@ -1,0 +1,72 @@
+Nome: CAMPO MAIOR
+Codigo Estacao: A376
+Latitude: -4.86416666
+Longitude: -42.14555555
+Altitude: 125
+Situacao: Operante
+Data Inicial: 2018-11-22
+Data Final: 2023-10-11
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2018-11-30;1;null;null;null;null;null;
+2018-12-31;10;null;null;null;8,2;null;
+2019-01-31;null;null;null;null;null;null;
+2019-02-28;null;null;null;null;null;null;
+2019-03-31;6;null;null;null;null;null;
+2019-04-30;23;317,8;997,438056;26,395833;6,4;1,152083;
+2019-05-31;23;91,6;997,215457;26,94879;6,3;1,240054;
+2019-06-30;6;10;999,110972;27,027778;6,2;1,654306;
+2019-07-31;8;9,4;998,850269;27,704839;6,3;1,902688;
+2019-08-31;4;1,6;999,497446;28,782527;7;2,047312;
+2019-09-30;4;12;997,406528;29,864722;6,3;2,049444;
+2019-10-31;5;11,2;995,780645;30,249059;6,2;2,187903;
+2019-11-30;5;15,6;994,545694;30,606805;6,2;2,085556;
+2019-12-31;5;7,4;994,709006;30,225941;7,2;2,044624;
+2020-01-31;19;148,6;997,126613;26,96129;6,8;1,325134;
+2020-02-29;null;null;997,367241;26,521839;8,9;1,086925;
+2020-03-31;null;null;997,289785;26,437634;6;1,140726;
+2020-04-30;null;null;997,706389;26,900139;6,8;1,360417;
+2020-05-31;null;null;998,444624;27,097043;4,7;1,540188;
+2020-06-30;6;3,4;998,447361;27,443472;6,8;2,093472;
+2020-07-31;null;null;null;null;null;null;
+2020-08-31;null;null;null;null;null;null;
+2020-09-30;null;null;null;null;null;null;
+2020-10-31;null;null;null;null;null;null;
+2020-11-30;null;null;null;null;null;null;
+2020-12-31;null;null;null;null;null;null;
+2021-01-31;null;null;null;null;null;null;
+2021-02-28;null;null;null;null;null;null;
+2021-03-31;null;null;null;null;null;null;
+2021-04-30;null;null;null;null;null;null;
+2021-05-31;null;null;null;null;null;null;
+2021-06-30;null;null;null;null;null;null;
+2021-07-31;null;null;null;null;null;null;
+2021-08-31;null;null;null;null;null;null;
+2021-09-30;null;null;null;null;null;null;
+2021-10-31;null;null;null;null;null;null;
+2021-11-30;null;null;null;null;null;null;
+2021-12-31;null;null;null;null;null;null;
+2022-01-31;null;null;null;null;null;null;
+2022-02-28;null;null;null;null;null;null;
+2022-03-31;null;null;null;null;null;null;
+2022-04-30;null;null;null;null;null;null;
+2022-05-31;null;null;null;null;null;null;
+2022-06-30;null;null;null;null;null;null;
+2022-07-31;null;null;null;null;null;null;
+2022-08-31;4;3,4;997,713542;28,510863;6,3;2,218006;
+2022-09-30;5;21,2;996,632361;29,615556;6,6;2,231806;
+2022-10-31;6;19,6;995,249462;30,218145;6,2;2,299462;
+2022-11-30;5;null;995,612561;28,476458;6,2;1,871586;
+2022-12-31;5;null;995,389183;null;6,6;1,876616;
+2023-01-31;10;null;996,906488;26,689597;7;1,621025;
+2023-02-28;15;null;996,521958;26,824767;6,9;1,255913;
+2023-03-31;20;null;997,373167;25,941167;6,8;1,126167;
+2023-04-30;18;233,8;996,660278;26,636111;8,1;1,23875;
+2023-05-31;9;108,4;997,714382;27,576344;5,8;1,082124;
+2023-06-30;3;9,2;998,893333;27,587361;5,7;,974722;
+2023-07-31;2;10,8;998,917876;28,368817;5,9;,245699;
+2023-08-31;0;0;997,510215;29,408065;6,5;,629436;
+2023-09-30;1;,6;996,334583;30,552361;6,8;,944028;
+2023-10-31;null;null;null;null;null;null;
+

@@ -1,0 +1,36 @@
+Nome: ALFENAS
+Codigo Estacao: A504
+Latitude: -21.45
+Longitude: -45.95
+Altitude: 875
+Situacao: Desativada
+Data Inicial: 2002-12-08
+Data Final: 2004-11-17
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2002-12-31;null;null;null;null;null;null;
+2003-01-31;null;null;null;null;null;null;
+2003-02-28;null;null;null;null;null;null;
+2003-03-31;2;null;null;null;null;null;
+2003-04-30;7;null;917,952858;20,979362;8,2;1,895632;
+2003-05-31;6;46,4;919,126288;17,140171;7,3;2,117546;
+2003-06-30;1;,2;919,62899;18,615179;5,6;1,463251;
+2003-07-31;3;15,6;921,707688;17,12687;7,6;2,014537;
+2003-08-31;3;null;null;17,811832;7,1;null;
+2003-09-30;null;null;null;null;null;null;
+2003-10-31;null;null;null;null;null;null;
+2003-11-30;null;null;null;null;null;null;
+2003-12-31;null;null;null;null;null;null;
+2004-01-31;null;null;null;null;null;null;
+2004-02-29;null;null;null;null;null;null;
+2004-03-31;null;null;null;null;null;null;
+2004-04-30;7;null;null;null;5,5;null;
+2004-05-31;14;null;918,97608;17,519049;7;1,912561;
+2004-06-30;8;null;921,768254;16,27723;8,1;1,824827;
+2004-07-31;8;34,4;920,88268;15,604653;7,8;2,484124;
+2004-08-31;2;,8;920,924045;18,3906;7,9;2,249464;
+2004-09-30;null;null;918,197772;22,703485;8,9;2,634628;
+2004-10-31;11;null;916,214478;20,277862;9,9;2,554802;
+2004-11-30;6;null;null;null;9,4;null;
+
